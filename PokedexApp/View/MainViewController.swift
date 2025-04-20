@@ -60,7 +60,7 @@ class MainViewController: BaseViewController, UISearchBarDelegate {
         self.tabBarController?.tabBar.isHidden = false
 
         if #available(iOS 13.0, *) {
-            searchController.searchBar.searchTextField.attributedPlaceholder = NSAttributedString(string: "Enter Search Here", attributes: [NSAttributedString.Key.foregroundColor : UIColor.white])
+            searchController.searchBar.searchTextField.attributedPlaceholder = NSAttributedString(string: "Search your Pokémon", attributes: [NSAttributedString.Key.foregroundColor : UIColor.white])
             searchController.searchBar.searchTextField.textColor = .white
         } else {
             // Fallback on earlier versions
