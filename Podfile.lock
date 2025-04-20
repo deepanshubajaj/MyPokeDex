@@ -1,0 +1,40 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - Kingfisher (7.12.0)
+  - Loaf (0.7.0)
+  - lottie-ios (4.4.1)
+  - VerticalCardSwiper (2.3.1)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - Kingfisher
+  - Loaf
+  - lottie-ios
+  - VerticalCardSwiper (from `https://github.com/JoniVR/VerticalCardSwiper.git`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - Kingfisher
+    - Loaf
+    - lottie-ios
+
+EXTERNAL SOURCES:
+  VerticalCardSwiper:
+    :git: https://github.com/JoniVR/VerticalCardSwiper.git
+
+CHECKOUT OPTIONS:
+  VerticalCardSwiper:
+    :commit: 669694f17d9038cb9e3301221a67c6549b6dd380
+    :git: https://github.com/JoniVR/VerticalCardSwiper.git
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  Kingfisher: 53a10ea35051a436b5fb626ca2dd8f3144d755e9
+  Loaf: d69937cd00649f3fa260beb8b7aef0a1feb861ef
+  lottie-ios: e047b1d2e6239b787cc5e9755b988869cf190494
+  VerticalCardSwiper: 4b72d48c7c9fa2f210df0e3acec963f02845e75f
+
+PODFILE CHECKSUM: c3ce2422de547b8d0a36b2cec59137775d495cf3
+
+COCOAPODS: 1.16.2
