@@ -1,5 +1,3 @@
-# MyPokeDex
-MyPokéDex
 <h1 align="center">🐹 MyPokéDex - iOS App</h1>
 
 <p align="center"><img src="ProjectOutputs/Snapshots/pokedex.png" width="20%"></p>
