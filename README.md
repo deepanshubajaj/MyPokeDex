@@ -130,19 +130,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="ProjectOutputs/Snapshots/mainScreen8.jpg" alt="Main Screen 8" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen9.jpg" alt="Main Screen 9" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen10.jpg" alt="Main Screen 10" width="30%" />
-  </div>
-</p>
-
-##
-
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen11.jpg" alt="Main Screen 11" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen12.jpg" alt="Main Screen 12" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen13.jpg" alt="Main Screen 13" width="30%" />
   </div>
 </p>
 
@@ -150,9 +140,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="ProjectOutputs/Snapshots/mainScreen13.jpg" alt="Main Screen 13" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen14.jpg" alt="Main Screen 14" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen15.jpg" alt="Main Screen 15" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen16.jpg" alt="Main Screen 16" width="30%" />
   </div>
 </p>
 
@@ -160,9 +150,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="ProjectOutputs/Snapshots/mainScreen16.jpg" alt="Main Screen 16" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen17.jpg" alt="Main Screen 17" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen18.jpg" alt="Main Screen 18" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen19.jpg" alt="Main Screen 19" width="30%" />
   </div>
 </p>
 
@@ -170,9 +160,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="ProjectOutputs/Snapshots/mainScreen19.jpg" alt="Main Screen 19" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen20.jpg" alt="Main Screen 20" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen21.jpg" alt="Main Screen 21" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen22.jpg" alt="Main Screen 22" width="30%" />
   </div>
 </p>
 
@@ -180,9 +170,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="ProjectOutputs/Snapshots/mainScreen22.jpg" alt="Main Screen 22" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen23.jpg" alt="Main Screen 23" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen24.jpg" alt="Main Screen 24" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen25.jpg" alt="Main Screen 25" width="30%" />
   </div>
 </p>
 
@@ -190,9 +180,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="ProjectOutputs/Snapshots/mainScreen25.jpg" alt="Main Screen 25" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen26.jpg" alt="Main Screen 26" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen27.jpg" alt="Main Screen 27" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen28.jpg" alt="Main Screen 28" width="30%" />
   </div>
 </p>
 
@@ -200,9 +190,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="ProjectOutputs/Snapshots/mainScreen28.jpg" alt="Main Screen 28" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen29.jpg" alt="Main Screen 29" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen30.jpg" alt="Main Screen 30" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen31.jpg" alt="Main Screen 31" width="30%" />
   </div>
 </p>
 
@@ -210,9 +200,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="ProjectOutputs/Snapshots/mainScreen31.jpg" alt="Main Screen 31" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen32.jpg" alt="Main Screen 32" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen33.jpg" alt="Main Screen 33" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen34.jpg" alt="Main Screen 34" width="30%" />
   </div>
 </p>
 
@@ -220,9 +210,9 @@ PokeAPI provides a RESTful API interface to highly detailed objects built from t
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="ProjectOutputs/Snapshots/mainScreen34.jpg" alt="Main Screen 34" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen35.jpg" alt="Main Screen 35" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen36.jpg" alt="Main Screen 36" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen32.jpg" alt="Main Screen 37" width="30%" />
   </div>
 </p>
 
