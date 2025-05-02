@@ -238,7 +238,7 @@ Here’s a short video showcasing the app's functionality:
 
 <p align="center">
   <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App1" width="35%" />
-  <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App2" width="35%" />
+  <img src="ProjectOutputs/WorkingVideo/workingVideo2.gif" alt="Working App2" width="35%" />
 </p>
 
 ➤ <a href="ProjectOutputs/WorkingVideo/splashScreen.mp4">🎬 Watch Splash Screen Video</a>
